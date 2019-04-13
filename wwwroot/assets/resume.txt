@@ -1,0 +1,181 @@
+*resume.txt*          For Michael Phillips          Last Change: 2019 April 13
+
+Converting passion for technology into well designed, well tested software.
+
+==============================================================================
+CONTENTS                                                     *resume-contents*
+
+  1. Introduction........................................|resume-introduction|
+  2. Experience............................................|resume-experience|
+  3. Projects................................................|resume-projects|
+
+==============================================================================
+1. Introduction                                          *resume-introduction*
+
+==============================================================================
+2. Experience                                              *resume-experience*
+
+Application Architect
+Real Page (Richardson, TX)
+October 2017 - Present
+
+  * Worked as a core contributor on the RealPage Omnichannel Platform
+
+  * Integrated with `Twilio` for Phone Number Provisioning and Dynamic Voice
+    Applications
+
+  * Explored and designed solutions around `Natural` `Language` `Processing` via
+    `Twilio` `Autopilot` for improving user experiences with IVRs and automated
+    Voice Assistants
+
+  * Collaborated with other architecture teams on implementing distributed,
+    asynchronous communications via `RabbitMQ`/`AMQP` and `Kafka`
+
+  * Implemented `Event` `Sourcing` and `CQRS` as a Proof of Concept to better
+    inform design decisions across various systems
+
+  * Strategized and executed on how best to `refactor` technical debt in a
+    micro-service architecture
+
+  * Wrote and maintained a `library` in `PHP` for interfacing with core
+    RealPage APIs
+
+  * Designed and implemented `REST` `APIs` used by other product teams across
+    the RealPage ecosystem
+
+  * Helped plan and schedule releases with the RealPage Change Advisory Board
+
+  * Started a Programmer's `Book` `Club` to help encourage other developers to
+    learn and continually hone their skills as programmers
+
+  * Gave regular `Lunch` `and` `Learns`, presenting on a wide variety of topics from
+    design principles to higher order architectural patterns
+
+Software Developer & DevOps Engineer
+New Western Acquisitions (Irving, TX)
+June 2016 - September 2017
+
+  * Worked as the lead on several core components of the application,
+    including `authentication`, `authorization`, and `contract` `generation`
+
+  * Implemented Single Sign On between application domains; sharing sessions
+    via the database
+
+  * Worked as the lead on `Elastic` `Search` integration for quick, fuzzy
+    searching of property data
+
+  * Integrated `Smarty` `Streets` with `Symfony` `Forms` for re-usable address
+    normalization and auto-completion.  Built a reporting component for
+    business KPIs from user metrics tracked in the database
+
+  * Profiled and optimized the production application with `Blackfire.io` in
+    order to decrease page load times
+
+  * Worked to achieve 80% or greater `Code` `Coverage` for all responsible
+    components
+
+  * Took over as the lead on various systems, outlining tasks and building
+    requirements for other developers, when necessary
+
+  * Worked heavily with `Docker` in development, testing, and production
+    environments
+
+  * Established a `Continuous` `Deployment` pipeline, deploying to `Docker` on
+    `Amazon` `ECS`
+
+  * Provisioned a local, unified development environment for all team members
+    using custom `Docker` images
+
+  * Streamlined the development setup process with `Docker`, resulting in
+    minimal ramp up time for new team members
+
+  * Migrated the application server infrastructure from a dedicated hosting
+    provider to a scalable, autonomous infrastructure with `Amazon` `Web`
+    `Services`
+
+  * Managed all systems and hardware affiliated with the production
+    application
+
+  * Maintained documentation for DevOps processes
+
+  * Managed `Elastic` `Search`, `RDS`, `Redis`, and other application
+    dependencies on `AWS`
+
+  * Integrated with external services like `Platform.sh` and `CodeCov.io` to
+    improve development processes
+
+
+Software Developer
+Magic Logix (Carrollton, TX)
+December 2015 - June 2016
+
+  * Met with clients to identify software solutions for their individual
+    business needs
+
+  * Led the development of a major web application written in `Symfony` `2` and
+    `Angular` `JS`
+
+  * Estimated time lines for completion of projects with story points
+
+  * Planned out weekly Sprints for the team, accounting for several different
+    clients simultaneously
+
+  * Led daily Scrum Meetings
+
+  * Maintained client sites built on `Magento` and `Drupal`
+
+Software Developer
+24/7 Technologies (Arlington TX)
+June 2014 - December 2015
+
+  * Designed Zeus Cloud Network Video Recorder. An NVR written in `Python` for
+    use with IP based security cameras
+
+  * Reverse engineered a proprietary network protocol used by common security
+    camera distributors for support with Zeus NVR
+
+  * Developed a web interface for Zeus NVR for video playback, live viewing,
+    and account management
+
+  * Wrote a `Javascript` player for live viewing and playback of security camera
+    footage
+
+  * Rewrote portions of Zeus NVR in `C++` for connecting to cameras over the
+    local network
+
+==============================================================================
+3. Projects                                                  *resume-projects*
+
+|resume|          The application serving this version of this resume, written
+                in .NET Core and deployed to Amazon ECS as a fun way to
+                demonstrate applicable skills.
+
+                https://github.com/Nomad145/resume
+
+|language-server| A (very early) Language Server implementation for PHP, built
+                in ReactPHP.
+
+                https://github.com/Nomad145/language-server
+
+|rpn-calculator|  A Reverse Polish Notation Calculator that serves as a
+                demonstration of high quality, production code.
+
+                https://github.com/Nomad145/rpn-calculator
+
+|twitch|          A Twitch.tv desktop client making use of Goroutines and
+                Channels.
+
+                https://github.com/Nomad145/twitch
+
+|pure-pazaak|     A Java implementation of the Pazaak card game from
+                Star Wars: Knights of the Old Republic.
+
+                https://github.com/Nomad145/pure-pazaak
+
+|tardibot|        A Slack Bot used primarily for matching Spotify URLs to
+                Youtube Videos.
+
+                https://github.com/Nomad145/tardibot
+
+==============================================================================
+ vim:tw=78:ts=2:sts=2:sw=2:ft=help:norl:

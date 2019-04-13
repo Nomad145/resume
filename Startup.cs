@@ -57,7 +57,7 @@ namespace michaelphillips.dev
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Resume}/{action=Index}/{id?}");
             });
         }
     }
