@@ -5,15 +5,11 @@ Converting passion for technology into well designed, well tested software.
 ==============================================================================
 CONTENTS                                                     *resume-contents*
 
-  1. Introduction........................................|resume-introduction|
-  2. Experience............................................|resume-experience|
-  3. Projects................................................|resume-projects|
+  1. Experience............................................|resume-experience|
+  2. Projects................................................|resume-projects|
 
 ==============================================================================
-1. Introduction                                          *resume-introduction*
-
-==============================================================================
-2. Experience                                              *resume-experience*
+1. Experience                                              *resume-experience*
 
 Application Architect
 Real Page (Richardson, TX)
@@ -144,7 +140,7 @@ June 2014 - December 2015
     local network
 
 ==============================================================================
-3. Projects                                                  *resume-projects*
+2. Projects                                                  *resume-projects*
 
 |resume|          The application serving this version of this resume, written
                 in .NET Core and deployed to Amazon ECS as a fun way to
